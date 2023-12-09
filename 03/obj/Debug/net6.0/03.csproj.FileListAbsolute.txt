@@ -1,0 +1,15 @@
+G:\Омӯзиш\HomeworkSeminar4\03\bin\Debug\net6.0\03.exe
+G:\Омӯзиш\HomeworkSeminar4\03\bin\Debug\net6.0\03.deps.json
+G:\Омӯзиш\HomeworkSeminar4\03\bin\Debug\net6.0\03.runtimeconfig.json
+G:\Омӯзиш\HomeworkSeminar4\03\bin\Debug\net6.0\03.dll
+G:\Омӯзиш\HomeworkSeminar4\03\bin\Debug\net6.0\03.pdb
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.dll
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\refint\03.dll
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.pdb
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+G:\Омӯзиш\HomeworkSeminar4\03\obj\Debug\net6.0\ref\03.dll
